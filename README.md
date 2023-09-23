@@ -8,6 +8,8 @@
 
 <p align="left"> <a rel="me" href="https://mastodon.social/@shabbir1" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<a rel="me" href="https://mastodon.social/@shabbir1">Mastodon</a>
+
 - 🌱 I’m currently learning **Nginx, Flask**
 
 - 📝 I regularly write articles on [shabbir.hashnode.dev/](shabbir.hashnode.dev/)
