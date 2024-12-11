@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabbir23ah&label=Profile%20views&color=0e75b6&style=flat" alt="shabbir23ah" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/@orkpo15" alt="" /></a> </p>
 
-<p align="left"> <a rel="me" href="https://mastodon.social/@shabbir1" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a rel="me" href="https://infosec.town/@shabbir" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<a rel="me" href="https://mastodon.social/@shabbir1">Mastodon</a>
+<a rel="me" href="https://infosec.town/@shabbir">Mastodon</a>
 
 - 🌱 I’m currently learning **Nginx, Flask**
 
