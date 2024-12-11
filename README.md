@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/:orkpo15" alt="" /></a> </p>
 
 <p align="left"> <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<a href="https://ibb.co.com/qnKdcq7"><img src="https://i.ibb.co.com/qnKdcq7/logo.png" alt="logo" border="0"><a rel="me" href="https://infosec.town/@shabbir" target="blank"></a>
+<a rel="me" href="https://infosec.town/@shabbir" target="blank"></a>
 
 <a rel="me" href="https://infosec.town/@shabbir"><img src="https://ibb.co.com/qnKdcq7" alt="" /></a>
 
