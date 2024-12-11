@@ -8,7 +8,7 @@
 
 <p align="left"> <a rel="me" href="https://infosec.town/@shabbir" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<a rel="me" href="https://infosec.town/@shabbir">Mastodon</a>
+<a rel="me" href="https://infosec.town/@shabbir"><img src="https://ibb.co.com/qnKdcq7" alt="" /></a>
 
 - 🌱 I’m currently learning **Nginx, Flask**
 
